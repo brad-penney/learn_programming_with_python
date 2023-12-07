@@ -126,11 +126,8 @@ rsa==4.9
 ruamel.yaml==0.17.32
 ruamel.yaml.clib==0.2.7
 s3transfer==0.6.2
-selinux @ file:///builddir/build/BUILD/libselinux-3.5/src
 Send2Trash==1.8.2
-sepolicy @ file:///builddir/build/BUILD/selinux-3.5/python/sepolicy
 setools==4.4.3
-setroubleshoot @ file:///builddir/build/BUILD/setroubleshoot-3.3.32/src
 setuptools==67.7.2
 simpleaudio==1.0.4
 simpleline==1.9.0
